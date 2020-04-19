@@ -1,9 +1,6 @@
-Dynamic Contextual Goal Management Tool
-
-The repository contains major two folders. The Dataset folder contains all the datasets which will be used to get the contexts for each goal model variant.
-
-The Tool folder contains "Executables" folder where all the deployable codes are provided. It includes necessary jar files and python scripts.
-
-Another folder named "SourceCode" contains all the java source codes which are used to build the jar files.
-
-The folder "SQL Server Database" contains the SQL server mdf file which is necessary to maintain the database. 
+<p style="text-align: center;"><span style="text-decoration: underline;"><strong>Dynamic Contextual Goal Management Tool</strong></span></p>
+<p style="text-align: left;">The repository contains major two folders. The <strong>Dataset</strong> folder contains all the datasets which will be used to get the contexts for each goal model variant.</p>
+<p style="text-align: left;">The <strong>Tool</strong> folder contains <strong>"<a href="https://github.com/Dynamic-Contextual-Goal-Management/Dynamic-Contextual-Goal-Management/tree/master/Tool/Executables" target="_blank" rel="noopener">Executables</a>"</strong>&nbsp;folder where all the deployable codes are provided. It includes necessary jar files and python scripts.</p>
+<p style="text-align: left;">Another folder named "<strong>SourceCode"&nbsp;</strong>contains all the java source codes which are used to build the jar files.</p>
+<p style="text-align: left;">The folder <strong>"<a href="https://github.com/Dynamic-Contextual-Goal-Management/Dynamic-Contextual-Goal-Management/tree/master/Tool/SQL%20ServerDatabase" target="_blank" rel="noopener">SQL Server Database</a>"</strong> contains the SQL server mdf file which is necessary to maintain the database.&nbsp;</p>
+<p style="text-align: left;">&nbsp;</p>
